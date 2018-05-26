@@ -1,0 +1,69 @@
+.google-img {
+  display: block;
+  margin: auto;
+  margin-top: 150px;
+}
+
+.searchbox{
+  display:block;
+  margin:auto;
+  margin-top: 25px;
+  width:43em;
+  height: 35px;
+
+}
+.buttons{
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.searchbutton, .luckybutton{
+  background-color: #f2f2f2;
+  border: 1px solid #f2f2f2;
+  border-radius: 2px;
+  color: #757575;
+  cursor: default;
+  font-family: arial,sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  margin: 11px 4px;
+  min-width: 54px;
+  padding: 0 16px;
+  text-align: center;
+  height: 36px;
+  line-height: 27px;}
+
+  .searchbutton:hover, .luckybutton:hover{
+    color:black;
+  }
+
+  ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    text-align:right;
+
+  }
+
+  li{
+    display: inline;
+    padding: 5px
+    text-align: center;
+  }
+  a{
+    color:blue;
+  }
+
+.apps{
+width:5.12px;
+height:5.12px;
+padding:0
+margin:0
+}
+.otherofferings{
+  font-family:arial, sans-serif;
+  font-size: 12px;
+  text-align: center;
+}
