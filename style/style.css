@@ -13,6 +13,13 @@ body {
   margin-top: 25px;
   width:43em;
   height: 35px;
+  border: solid 1px;
+  border-top-color: #EAEAEA;
+  border-left-color: #DDDDDD;
+  border-right-color: #DDDDDD;
+  border-bottom-color: #CBCBCB;
+  border-radius: 3px;
+  box-shadow: 0 2px 2px #DDDDDD;
 
 }
 .buttons{
