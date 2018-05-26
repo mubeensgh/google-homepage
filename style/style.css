@@ -42,15 +42,18 @@
   ul{
     list-style-type:none;
     margin:0;
-    padding:0;
+    padding:0px;
     text-align:right;
-
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
   }
 
   li{
-    display: inline;
-    padding: 5px
+    display: inline-block;
+    padding: 8px;
     text-align: center;
+    vertical-align: middle;
+    margin-top: 10px;
   }
   a{
     color:blue;
@@ -66,4 +69,12 @@ margin:0
   font-family:arial, sans-serif;
   font-size: 12px;
   text-align: center;
+}
+a{
+  text-decoration: none;
+  color: black
+}
+a:hover{
+  text-decoration: underline;
+  color: black
 }
